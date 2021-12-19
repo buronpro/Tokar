@@ -32,6 +32,12 @@ body{
     clip: rect(0 0 0 0)
   }
 
+
+li , a {
+    text-decoration: none;
+    list-style-type: none;
+}
+
 img{
     vertical-align: middle;
     object-fit: cover;

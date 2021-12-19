@@ -1,0 +1,46 @@
+.about__list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.about__text {
+ font-family: 'Gilroy' 'Arial' sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 58px;
+color: #2B2A28;
+}
+
+.about__title {  
+max-width: 180px;     
+font-family: "Gilroy" 'Arial ' sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 16px;
+color: #CB8734;
+}
+
+.about__liner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.about__paragrf {
+width: 472px;
+padding-top: 75px;
+font-family: Gilroy;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 30px;
+color: #2B2A28;
+}
+
+.about__uy{
+width: 615px;
+height: 506px;
+margin-top: -29px;
+}
