@@ -77,3 +77,12 @@ font-size: 15px;
 line-height: 30px;
 color: #2B2A28;
 }
+
+ 
+@media only screen and (max-width: 1105px) {
+
+    .foto__list {
+        flex-direction: column;
+
+    }
+}
